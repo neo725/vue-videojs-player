@@ -30,7 +30,7 @@
             {
               type: "video/mp4",
               //src: "https://d22649asu92cqd.cloudfront.net/MP4/LT20190401.mp4"
-              src: "https://d22649asu92cqd.cloudfront.net/MP4/LT20190401-1000k.mp4"
+              src: "https://digichannel.go2school.com.tw/_temp-mp4/720p-1000k-test-8.mp4"
             }
           ],
           html5: { hls: { withCredentials: false }},
