@@ -25,8 +25,8 @@
   require('videojs-contrib-hls')
 
   var urls = {
-    video_1: 'http://media-dlc.sce.pccu.edu.tw/videos/720p-1000k-test-8.mp4',
-    video_2: 'http://media-dlc.sce.pccu.edu.tw/videos/720p-1000k-test-8.mp4?start=720'
+    video_1: 'http://media-dlc.sce.pccu.edu.tw/videos/360p-800k-3.mp4',
+    video_2: 'http://media-dlc.sce.pccu.edu.tw/videos/360p-800k-3.mp4?start=720'
   }
 
   var getOptions = (video_src) => {

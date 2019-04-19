@@ -1,25 +1,23 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
-      <li>
-        <a
-          href="/#/play"
-          target="_blank"
-        >
-          AWS CloudFront (1000k)
-        </a>
-      </li>
       <li>
         <a
           href="/#/play-local"
           target="_blank"
         >
-          FET IDC
+          遠傳 IDC (720p - 1000k 付費分段)
         </a>
       </li>
-
+      <li>
+        <a
+          href="/#/play-local-360"
+          target="_blank"
+        >
+          遠傳 IDC (360p - 800k 免費分段)
+        </a>
+      </li>
     </ul>
 
   </div>
